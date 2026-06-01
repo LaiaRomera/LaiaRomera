@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Laia Romera 👋
 
-<!--
-**LaiaRomera/LaiaRomera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Data Science & Artificial Intelligence
 
-Here are some ideas to get you started:
+I am currently developing practical skills in Data Analytics, Machine Learning, and Artificial Intelligence through academic and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to start my professional career as a Data Analyst or Data Scientist, contributing to real-world projects while continuing to learn and grow within the data and AI ecosystem.
+
+## 🛠️ Technical Skills
+
+* Python
+* SQL
+* Power BI
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-Learn
+* Git & GitHub
+
+## 📂 Featured Projects
+
+### 📊 Personal Expenses Analysis
+
+Exploratory Data Analysis project focused on understanding spending habits and identifying financial patterns using Python.
+
+### 🚗 Madrid Road Accident Analysis
+
+EDA and Logistic Regression project exploring accident trends and risk factors in Madrid.
+
+### 🍽️ Tripadvisor Spain Restaurant Analysis
+
+Data exploration project analyzing restaurant ratings, popularity, and customer satisfaction across Spain.
+
+### ✅ Task Manager Application
+
+Python-based task management application developed to practice object-oriented programming and software development fundamentals.
+
+## 🌱 Currently Learning
+
+* Machine Learning
+* Generative AI
+* MLOps Fundamentals
+* Advanced Data Visualization
+
+## 📫 Connect with Me
+
+LinkedIn: https://www.linkedin.com/in/laia-romera-mac%C3%ADas94/
+
+GitHub: github.com/LaiaRomera

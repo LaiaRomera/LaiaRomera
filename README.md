@@ -45,6 +45,6 @@ Python-based task management application developed to practice object-oriented p
 
 ## 📫 Connect with Me
 
-LinkedIn: https://www.linkedin.com/in/laia-romera-mac%C3%ADas94/
+LinkedIn: www.linkedin.com/in/laiaromeramacias-datascience
 
 GitHub: github.com/LaiaRomera

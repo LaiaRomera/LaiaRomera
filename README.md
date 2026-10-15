@@ -8,9 +8,14 @@ My goal is to start my professional career as a Data Analyst or Data Scientist, 
 
 ## 🛠️ Technical Skills
 
+* Machine Learning
+* Deep Learning
+* IA Generativa
+* Fine-tuning
+* Power BI
 * Python
 * SQL
-* Power BI
+* APIs
 * Pandas
 * NumPy
 * Matplotlib

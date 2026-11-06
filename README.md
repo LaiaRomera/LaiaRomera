@@ -1,3 +1,5 @@
+![My Data & AI workspace](assets/banner-laia-data-ai.gif)
+
 # Hi, I'm Laia Romera 👋
 
 🎓 Master's Student in Data Science & Artificial Intelligence

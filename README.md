@@ -2,9 +2,9 @@
 
 # Hi, I'm Laia Romera 👋
 
-🎓 Master's Student in Data Science & Artificial Intelligence
+🎓 IA Engineer Junior/ Data Science / MLOps
 
-I am currently developing practical skills in Data Analytics, Machine Learning, and Artificial Intelligence through academic and personal projects.
+I am currently developing practical skills in Data Science, Machine Learning, and Artificial Intelligence through academic and personal projects.
 
 My goal is to start my professional career as a Data Analyst or Data Scientist, contributing to real-world projects while continuing to learn and grow within the data and AI ecosystem.
 

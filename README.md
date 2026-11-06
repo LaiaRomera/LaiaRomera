@@ -11,7 +11,9 @@ My goal is to start my professional career as a Data Analyst or Data Scientist, 
 * Machine Learning
 * Deep Learning
 * IA Generativa
-* Fine-tuning
+* Fine-tuning and RAG
+* MLOps
+* 
 * Power BI
 * Python
 * SQL

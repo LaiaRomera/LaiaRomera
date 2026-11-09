@@ -1,4 +1,4 @@
-![My Data & AI workspace](assets/banner-laia-data-ai.gif)
+![Laia’s Data & AI workspace](assets/banner-laia-data-ai-editorial.gif)
 
 # IA Engineer Junior/ Data Science / MLOps 👋
 

@@ -99,10 +99,19 @@ Python-based task management application developed to practice object-oriented p
 
 ## 🌱 Currently Learning
 
-* Machine Learning
-* Generative AI
-* MLOps Fundamentals
-* Advanced Data Visualization
+### 🌱 Currently Learning
+
+**Data & Analytics**
+- **Advanced SQL & Data Modelling** — Deepening my understanding of complex queries, relational database design and analytical data models.
+- **Business Intelligence** — Improving dashboard design, KPI definition and data storytelling to support business decisions.
+- **Data Engineering** — Learning to build ETL pipelines that extract, clean, transform and load data for analysis.
+- **Statistics & Machine Learning** — Strengthening statistical reasoning, feature engineering and model evaluation.
+
+**AI & Development**
+- **MLOps** — Exploring reproducible ML workflows, experiment tracking, model versioning and deployment.
+- **Model Fine-Tuning** — Learning how to adapt pretrained models to specific tasks using techniques such as LoRA.
+- **Advanced RAG & AI Agents** — Exploring retrieval strategies, response evaluation and assistants that use tools.
+- **AI-Assisted Development** — Applying specification-driven workflows and specialised coding agents to build maintainable applications.
 
 ## 📫 Connect with Me
 

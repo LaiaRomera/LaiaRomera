@@ -41,7 +41,25 @@ My goal is to start my professional career as a Data Analyst or Data Scientist, 
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="45" alt="LangChain" title="LangChain" />
   
   <img src="https://raw.githubusercontent.com/Fission-AI/OpenSpec/main/assets/openspec_bg.png" height="45" alt="OpenSpec" title="OpenSpec" />
+
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@master/packages/static-svg/icons/claude-color.svg" height="45" width="45" alt="Claude" title="Claude" />
+  &nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@master/packages/static-svg/icons/openai.svg" height="45" width="45" alt="ChatGPT / OpenAI" title="ChatGPT / OpenAI" />
+  &nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@master/packages/static-svg/icons/mistral-color.svg" height="45" width="45" alt="Mistral AI" title="Mistral AI" />
+  &nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@master/packages/static-svg/icons/gemini-color.svg" height="45" width="45" alt="Google Gemini" title="Google Gemini" />
+  &nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@master/packages/static-svg/icons/deepseek-color.svg" height="45" width="45" alt="DeepSeek" title="DeepSeek" />
+  &nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@master/packages/static-svg/icons/githubcopilot.svg" height="45" width="45" alt="GitHub Copilot" title="GitHub Copilot" />
 </p>
+
 
 ## 🛠️ Technical Skills
 

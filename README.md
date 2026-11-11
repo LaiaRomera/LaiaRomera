@@ -42,6 +42,8 @@ My goal is to start my professional career as a Data Analyst or Data Scientist, 
   
   <img src="https://raw.githubusercontent.com/Fission-AI/OpenSpec/main/assets/openspec_bg.png" height="45" alt="OpenSpec" title="OpenSpec" />
 
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker" title="Docker" />
+
   <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@master/packages/static-svg/icons/claude-color.svg" height="45" width="45" alt="Claude" title="Claude" />
   &nbsp;
   

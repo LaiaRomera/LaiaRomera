@@ -1,6 +1,6 @@
 ![Laia’s Data & AI workspace](assets/banner-laia-data-ai-editorial1.gif)
 
-# IA Engineer Junior/ Data Science / MLOps 👋
+# IA Engineer Junior/ Data Science  
 
 I am currently developing practical skills in Data Science, Machine Learning, and Artificial Intelligence through academic and personal projects.
 My goal is to start my professional career as a Data Analyst or Data Scientist, contributing to real-world projects while continuing to learn and grow within the data and AI ecosystem.

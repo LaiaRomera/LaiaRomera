@@ -56,6 +56,7 @@ My goal is to start my professional career as a Data Analyst or Data Scientist, 
 - **Database Querying** — Extracting, joining and aggregating data from relational databases.
 - **Business Intelligence** — Defining KPIs and building interactive dashboards to support business decisions.
 - **Model Fine-Tuning** — (Currently learning) Exploring how to adapt pretrained models to specific tasks, including parameter-efficient methods such as LoRA.
+- **MLOps Fundamentals** — Learning to build reproducible ML workflows, track experiments, version models and deploy prediction services.
 
 
 ## 📂 Featured Projects

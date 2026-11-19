@@ -83,6 +83,13 @@ wrote 176 automated tests, and documented the API for the integration team.
 
 **Stack:** Python · FastAPI · MySQL · Open-Meteo · APScheduler · Render
 
+### 🤖 Machine Learning Study Assistant — Gemini & RAG
+
+Built a chat-based study assistant that answers questions about classical
+machine learning and neural network fundamentals using five study documents
+I wrote. It retrieves relevant passages, cites the sources used in its answers,
+and retains conversation context so users can ask follow-up questions.
+
 ### 🌱 RooTime — Smart Irrigation
 
 Master’s capstone project in development. RooTime combines soil sensor

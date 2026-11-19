@@ -7,7 +7,7 @@ Agrodevices’ irrigation platform. I'm currently building RooTime, my master’
 capstone project, which combines soil sensor readings and weather data to
 generate explainable irrigation recommendations.
 
-I'm looking for a Junior AI Engineer or Junior Data Scientist role.
+I'm looking for a Junior AI Engineer or Junior Data Scientist role. [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/laiaromeramacias-datascience/)
 
 ### 🛠️ Tools & Technologies
 
@@ -154,6 +154,8 @@ source data to making it available for reporting in Power BI.
 
 ## 📫 Connect with Me
 
-LinkedIn: www.linkedin.com/in/laiaromeramacias-datascience
-GitHub: github.com/LaiaRomera
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/laiaromeramacias-datascience/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-424B5A?style=for-the-badge)](mailto:TU_CORREO?subject=GitHub%20profile)
 

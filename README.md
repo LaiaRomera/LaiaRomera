@@ -1,9 +1,13 @@
 ![Laia’s Data & AI workspace](assets/banner-laia-data-ai-editorial1.gif)
 
-# Data Scientist | AI Engineer | Business Intelligence
+# AI Engineer | Machine Learning | Data Scientist | Business Intelligence
 
-I am currently developing practical skills in Data Science, Machine Learning, and Artificial Intelligence through academic and personal projects.
-My goal is to start my professional career as a Data Analyst or Data Scientist, contributing to real-world projects while continuing to learn and grow within the data and AI ecosystem.
+I designed, built, and deployed a Python API that delivers weather data to
+Agrodevices’ irrigation platform. I'm currently building RooTime, my master’s
+capstone project, which combines soil sensor readings and weather data to
+generate explainable irrigation recommendations.
+
+I'm looking for a Junior AI Engineer or Junior Data Scientist role.
 
 ### 🛠️ Tools & Technologies
 
@@ -63,43 +67,71 @@ My goal is to start my professional career as a Data Analyst or Data Scientist, 
 </p>
 
 
-## 🛠️ Technical Skills
-
-
-- **Generative AI Integration** — Connecting language models to applications, designing prompts and processing structured outputs.
-- **Machine Learning** — Preparing data, engineering features, training classification and regression models, and evaluating their performance.
-- **Natural Language Processing** — Analysing text through sentiment analysis, text classification and topic modelling.
-- **Retrieval-Augmented Generation (RAG)** — Building document-based assistants using embeddings, vector search and contextual retrieval.
-- **Data Engineering & Database Design** — Designing and building relational databases, defining table relationships and preparing data for analysis and BI reporting.
-- **Data Analysis & EDA** — Cleaning, transforming and exploring data to identify patterns, investigate questions and communicate findings.
-- **Data Visualisation & Storytelling** — Turning analytical results into clear visual explanations and actionable insights.
-- **Database Querying** — Extracting, joining and aggregating data from relational databases.
-- **Business Intelligence** — Defining KPIs and building interactive dashboards to support business decisions.
-- **Model Fine-Tuning** — (Currently learning) Exploring how to adapt pretrained models to specific tasks, including parameter-efficient methods such as LoRA.
-- **MLOps Fundamentals** — Learning to build reproducible ML workflows, track experiments, version models and deploy prediction services.
 
 
 ## 📂 Featured Projects
 
-### 📊 Personal Expenses Analysis
+## 📂 Featured Projects
 
-Exploratory Data Analysis project focused on understanding spending habits and identifying financial patterns using Python.
+### 🌦️ Weather Data Service — Agrodevices
 
-### 🚗 Madrid Road Accident Analysis
+Designed, built, and deployed a Python service that integrates Open-Meteo
+with Agrodevices’ irrigation platform. It stores weather data in MySQL and
+exposes current conditions, forecasts, and historical data through eight
+FastAPI endpoints. I implemented scheduled updates, retries, and logging,
+wrote 176 automated tests, and documented the API for the integration team.
 
-EDA and Logistic Regression project exploring accident trends and risk factors in Madrid.
+**Stack:** Python · FastAPI · MySQL · Open-Meteo · APScheduler · Render
 
-### 🍽️ Tripadvisor Spain Restaurant Analysis
+### 🌱 RooTime — Smart Irrigation
 
-Data exploration project analyzing restaurant ratings, popularity, and customer satisfaction across Spain.
+Master’s capstone project in development. RooTime combines soil sensor
+readings and weather data to recommend when and how much to irrigate, with
+an explanation for each recommendation. The project also includes sensor
+anomaly detection and automated daily and weekly reports.
 
-### ✅ Task Manager Application
+I use Claude Code, OpenSpec, and specialised coding agents to define
+requirements, break the work into smaller changes, and review each
+implementation against its specification.
 
-Python-based task management application developed to practice object-oriented programming and software development fundamentals.
+### 🏨 Hotel Booking Cancellation Prediction
+
+Built a machine learning model to predict hotel booking cancellations.
+I trained on earlier bookings and validated on later ones to reflect how
+the model would be used. I excluded features that could leak information
+unavailable at prediction time.
+
+### 💬 Employee Reviews NLP Analysis
+
+Analysed employee reviews from Deutsche Bank, Barclays, Citi, and HSBC.
+I combined sentiment analysis with BERTopic to identify recurring themes
+and compare how employees described their experiences across the four banks.
+
+### 📊 Social Media Performance
+
+Built a Power BI project to analyse social media performance. I designed
+the relational database that supports the analysis, from structuring the
+source data to making it available for reporting in Power BI.
+
+
+
+## 🛠️ Technical Skills
+
+- **Generative AI Integration** 
+- **Machine Learning**
+- **Natural Language Processing** 
+- **Retrieval-Augmented Generation (RAG)** 
+- **Data Engineering & Database Design** 
+- **Data Analysis & EDA** 
+- **Data Visualisation & Storytelling** 
+- **Database Querying** 
+- **Business Intelligence** 
+- **Model Fine-Tuning** — (Currently learning) 
+- **MLOps Fundamentals** 
+
+
 
 ## 🌱 Currently Learning
-
-### 🌱 Currently Learning
 
 **Data & Analytics**
 - **Advanced SQL & Data Modelling** — Deepening my understanding of complex queries, relational database design and analytical data models.
@@ -112,9 +144,10 @@ Python-based task management application developed to practice object-oriented p
 - **Model Fine-Tuning** — Learning how to adapt pretrained models to specific tasks using techniques such as LoRA.
 - **Advanced RAG & AI Agents** — Exploring retrieval strategies, response evaluation and assistants that use tools.
 - **AI-Assisted Development** — Applying specification-driven workflows and specialised coding agents to build maintainable applications.
+- 
 
 ## 📫 Connect with Me
 
 LinkedIn: www.linkedin.com/in/laiaromeramacias-datascience
-
 GitHub: github.com/LaiaRomera
+

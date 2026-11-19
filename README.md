@@ -69,7 +69,6 @@ I'm looking for a Junior AI Engineer or Junior Data Scientist role.
 
 
 
-## 📂 Featured Projects
 
 ## 📂 Featured Projects
 
